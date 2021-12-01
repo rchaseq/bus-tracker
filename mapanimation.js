@@ -23,7 +23,7 @@ let map = new mapboxgl.Map({
   container: 'map',
   style: 'mapbox://styles/rchaseq/ckwn0e12w46q515lew9ujd72i',
   center: [-74.230990, 41.788900],
-  zoom: 8,
+  zoom: 12,
 });
 
 // Map marker
