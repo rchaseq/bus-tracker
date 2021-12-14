@@ -1,6 +1,6 @@
 # bus-tracker
 
-This is a bus tracker that I created with GeoJSON and Mapbox Studio. It tracks my local UCAT bus line, although I think some of the coordinates I used were for alternate stops as the tracker goes back and forth in the middle! 
+This is a bus tracker that I created with GeoJSON and Mapbox Studio. It demonstrates manipulation of the CSS grid, and it tracks my local UCAT bus line...although I think some of the coordinates I used were for alternate stops, as the tracker goes back and forth in the middle! 
 
 # How to Run
 
